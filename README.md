@@ -35,6 +35,7 @@ The Woopest Woop
 3. [https://scrimba.com/c/cast-24](https://scrimba.com/c/cast-24) @Tom Belton a nice way to "buidl" and apply what you're learning by creating a very simple submission form. @Jacob Papageorgiou schweeeet thnx m8!
 4. [https://codepen.io/JohnPaulFich/pen/MXmzzM](https://codepen.io/JohnPaulFich/pen/MXmzzM) A simple "To-do" list in .js to explore functions.
 5. [https://reacthandbook.com/](https://reacthandbook.com/) Flavio Copes. For when we make better haxz0rz
+6. https://learnjavascript.online/
 
 # Email newsletter worth subscribing to
 
