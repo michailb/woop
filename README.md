@@ -24,7 +24,7 @@ The Woopest Woop
 
 1. [https://app.programmingfonts.org/](https://app.programmingfonts.org/) - test yer fonts
 
-## VSCode
+# VSCode
 
 1. [https://vscodecandothat.com/](https://vscodecandothat.com/) - VS Code tips and tricks
 
@@ -36,6 +36,9 @@ The Woopest Woop
 4. [https://codepen.io/JohnPaulFich/pen/MXmzzM](https://codepen.io/JohnPaulFich/pen/MXmzzM) A simple "To-do" list in .js to explore functions.
 5. [https://reacthandbook.com/](https://reacthandbook.com/) Flavio Copes. For when we make better haxz0rz
 6. https://learnjavascript.online/
+
+# APIs
+1. [https://public-apis.xyz/](https://public-apis.xyz/) - here lie the public APIs
 
 # Email newsletter worth subscribing to
 
