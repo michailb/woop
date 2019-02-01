@@ -63,4 +63,4 @@ The Woopest Woop
 2. [https://stackoverflow.com/questions/2933192/what-is-parsing-in-terms-that-a-new-programmer-would-understand/2933218#2933218](https://stackoverflow.com/questions/2933192/what-is-parsing-in-terms-that-a-new-programmer-would-understand/2933218#2933218) (If I gave you an english sentence, and asked you to break down the sentence into its parts of speech (nouns, verbs, etc.), you would be parsing the sentence).
 3. [https://www.sitepoint.com/nokogiri-fundamentals-extract-html-web/](https://www.sitepoint.com/nokogiri-fundamentals-extract-html-web/) (extract an html page to terminal for initial scraping) 
 4. [https://www.youtube.com/watch?v=-9ZheXYOMeM&t=2s](https://www.youtube.com/watch?v=-9ZheXYOMeM&t=2s) Build a landing page in 2hrs
-5. https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html How to commit from local machine to github
+5. https://help.github.com/articles/fork-a-repo/ How to commit from local machine to github
