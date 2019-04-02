@@ -19,6 +19,9 @@ The Woopest Woop
 13. [https://caniuse.com](https://caniuse.com/) - Testing cross browser support for various properties
 14. [https://www.arun.is/blog/10-year-challenge/](https://www.arun.is/blog/10-year-challenge/) - 10 years
 15. [https://github.com/charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
+16. [https://google-webfonts-helper.herokuapp.com/fonts](https://google-webfonts-helper.herokuapp.com/fonts) - Fonts helper tool
+17. [https://medium.com/level-up-web/the-ultimate-guide-to-css-103b0f883de3](https://medium.com/level-up-web/the-ultimate-guide-to-css-103b0f883de3) - CSS cheatsheets
+18. [https://usefyi.com/templates/](https://usefyi.com/templates/) - Use FYI templates
 
 # On editors
 
@@ -27,6 +30,7 @@ The Woopest Woop
 # VSCode
 
 1. [https://vscodecandothat.com/](https://vscodecandothat.com/) - VS Code tips and tricks
+2. [https://vscodecandothat.com/](https://vscodecandothat.com/) - What VS Code can do... even makes coffee!🙊
 
 # On Javascript
 
@@ -36,6 +40,7 @@ The Woopest Woop
 4. [https://codepen.io/JohnPaulFich/pen/MXmzzM](https://codepen.io/JohnPaulFich/pen/MXmzzM) A simple "To-do" list in .js to explore functions.
 5. [https://reacthandbook.com/](https://reacthandbook.com/) Flavio Copes. For when we make better haxz0rz
 6. https://learnjavascript.online/
+7. https://dustinpfister.github.io/2017/12/04/lodash_once/  closures
 
 # APIs
 1. [https://public-apis.xyz/](https://public-apis.xyz/) - here lie the public APIs
