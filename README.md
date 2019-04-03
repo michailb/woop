@@ -52,6 +52,10 @@ The Woopest Woop
 3. [https://www.webdesignernews.com/](https://www.webdesignernews.com/) - I enjoy this as it has a variety of links on a daily basis - however these are still FOMO inducing emails
 4. [https://labnotes.org/](https://labnotes.org/) - Definitely worth subscribing to - a weekly email about code, design, technology, and people
 
+# Git
+
+1. https://medium.com/@i_AnkurBiswas/common-git-mistakes-and-how-to-fix-them-10184cd5fa77
+
 # Music
 
 1. [https://musicforprogramming.net/](https://musicforprogramming.net/)
