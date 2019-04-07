@@ -22,6 +22,7 @@ The Woopest Woop
 16. [https://google-webfonts-helper.herokuapp.com/fonts](https://google-webfonts-helper.herokuapp.com/fonts) - Fonts helper tool
 17. [https://medium.com/level-up-web/the-ultimate-guide-to-css-103b0f883de3](https://medium.com/level-up-web/the-ultimate-guide-to-css-103b0f883de3) - CSS cheatsheets
 18. [https://usefyi.com/templates/](https://usefyi.com/templates/) - Use FYI templates
+19. [https://daneden.github.io/animate.css/](https://daneden.github.io/animate.css/) - Simple animations with CSS
 
 # On editors
 
