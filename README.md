@@ -23,8 +23,9 @@ The Woopest Woop
 17. [https://medium.com/level-up-web/the-ultimate-guide-to-css-103b0f883de3](https://medium.com/level-up-web/the-ultimate-guide-to-css-103b0f883de3) - CSS cheatsheets
 18. [https://usefyi.com/templates/](https://usefyi.com/templates/) - Use FYI templates
 19. [https://daneden.github.io/animate.css/](https://daneden.github.io/animate.css/) - Simple animations with CSS
-
-# On editors
+20. [
+https://www.udemy.com/advanced-css-and-sass/?couponCode=LAUNCHSITE4](https://www.udemy.com/advanced-css-and-sass/?couponCode=LAUNCHSITE4) Jonas' advanced CSS class with coupon 
+# On editors]
 
 1. [https://app.programmingfonts.org/](https://app.programmingfonts.org/) - test yer fonts
 
