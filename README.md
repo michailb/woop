@@ -25,6 +25,8 @@ The Woopest Woop
 19. [https://daneden.github.io/animate.css/](https://daneden.github.io/animate.css/) - Simple animations with CSS
 20. [
 https://www.udemy.com/advanced-css-and-sass/?couponCode=LAUNCHSITE4](https://www.udemy.com/advanced-css-and-sass/?couponCode=LAUNCHSITE4) Jonas' advanced CSS class with coupon 
+21. [https://bennettfeely.com/clippy/](https://bennettfeely.com/clippy/) - Easy clip-path (HTML5) tool to clip images in browser.
+
 # On editors]
 
 1. [https://app.programmingfonts.org/](https://app.programmingfonts.org/) - test yer fonts
