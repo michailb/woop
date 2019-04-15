@@ -55,6 +55,7 @@ https://www.udemy.com/advanced-css-and-sass/?couponCode=LAUNCHSITE4](https://www
 2. [https://github.com/zudochkin/awesome-newsletters/blob/master/README.md](https://github.com/zudochkin/awesome-newsletters/blob/master/README.md) many more newsletters but not sure what would be best. 🤔
 3. [https://www.webdesignernews.com/](https://www.webdesignernews.com/) - I enjoy this as it has a variety of links on a daily basis - however these are still FOMO inducing emails
 4. [https://labnotes.org/](https://labnotes.org/) - Definitely worth subscribing to - a weekly email about code, design, technology, and people
+5. [https://frontendfoc.us/](https://frontendfoc.us/) - Front End Focus. All things front end, with latest updates. 
 
 # Git
 
