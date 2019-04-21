@@ -46,6 +46,7 @@ https://www.udemy.com/advanced-css-and-sass/?couponCode=LAUNCHSITE4](https://www
 5. [https://reacthandbook.com/](https://reacthandbook.com/) Flavio Copes. For when we make better haxz0rz
 6. https://learnjavascript.online/
 7. https://dustinpfister.github.io/2017/12/04/lodash_once/  closures
+8. [https://javascript.info](https://javascript.info) detailed JS text tutorials
 
 # APIs
 1. [https://public-apis.xyz/](https://public-apis.xyz/) - here lie the public APIs
