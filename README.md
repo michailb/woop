@@ -27,6 +27,8 @@ The Woopest Woop
 https://www.udemy.com/advanced-css-and-sass/?couponCode=LAUNCHSITE4](https://www.udemy.com/advanced-css-and-sass/?couponCode=LAUNCHSITE4) Jonas' advanced CSS class with coupon 
 21. [https://bennettfeely.com/clippy/](https://bennettfeely.com/clippy/) - Easy clip-path (HTML5) tool to clip images in browser.
 22. [https://discoverthreejs.com/](https://discoverthreejs.com/) - upcoming threejs book. Free first chapter. 
+23. [https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/](https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/) kubernetes explained 
+
 
 # On editors]
 
