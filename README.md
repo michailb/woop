@@ -49,6 +49,7 @@ https://www.udemy.com/advanced-css-and-sass/?couponCode=LAUNCHSITE4](https://www
 6. https://learnjavascript.online/
 7. https://dustinpfister.github.io/2017/12/04/lodash_once/  closures
 8. [https://javascript.info](https://javascript.info) detailed JS text tutorials
+9. https://medium.freecodecamp.org/state-in-javascript-explained-by-cooking-a-simple-meal-2baf10a787ee JS State explained 👨🏻‍🍳
 
 # APIs
 1. [https://public-apis.xyz/](https://public-apis.xyz/) - here lie the public APIs
