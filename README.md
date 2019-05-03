@@ -83,3 +83,4 @@ https://www.udemy.com/advanced-css-and-sass/?couponCode=LAUNCHSITE4](https://www
 3. [https://www.sitepoint.com/nokogiri-fundamentals-extract-html-web/](https://www.sitepoint.com/nokogiri-fundamentals-extract-html-web/) (extract an html page to terminal for initial scraping) 
 4. [https://www.youtube.com/watch?v=-9ZheXYOMeM&t=2s](https://www.youtube.com/watch?v=-9ZheXYOMeM&t=2s) Build a landing page in 2hrs
 5. https://help.github.com/articles/fork-a-repo/ How to commit from local machine to github
+6. https://flexboxfroggy.com Children's frog game to learn grid
